@@ -12,16 +12,16 @@
     "email": "jherr@pobox.com"
   },
   "devDependencies": {
-    "@babel/cli": "7.10.1",
-    "@babel/core": "7.9.6",
-    "@babel/preset-react": "7.9.4"
+    "@babel/cli": "7.15.7",
+    "@babel/core": "7.15.8",
+    "@babel/preset-react": "7.14.5"
   },
   "dependencies": {
     "nf-ecomm-logic": "1.0.0",
-    "react": "^16.13.0",
-    "react-bootstrap": "^1.0.1",
-    "react-bootstrap-icons": "^1.0.3-alpha4",
-    "react-redux": "^7.2.0",
-    "redux": "^4.0.5"
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0",
+    "react-bootstrap-icons": "^1.6.1",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.1"
   }
 }

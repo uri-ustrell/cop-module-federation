@@ -12,13 +12,13 @@
     "email": "jherr@pobox.com"
   },
   "devDependencies": {
-    "@babel/cli": "7.10.1",
-    "@babel/core": "7.9.6",
-    "@babel/preset-env": "7.9.6"
+    "@babel/cli": "7.15.7",
+    "@babel/core": "7.15.8",
+    "@babel/preset-env": "7.15.8"
   },
   "dependencies": {
     "nf-ecomm-logic": "1.0.0",
-    "redux": "^4.0.5",
-    "redux-thunk": "^2.3.0"
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.4.0"
   }
 }
